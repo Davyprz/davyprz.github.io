@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(236, 73, 73);
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+header {
+    background-color: rgb(236, 73, 73);
+    margin: -8px;
+}
+
+svg {
+    margin: 10px;
+    margin-bottom: 1px;
+}
+
+.barrasuperior {
+    float: right;
+    margin-right: 10px;
+}
+
+.titulo {
+    font-size: 25px;
+    margin-top: 30px;
+    color: #fbe7ff;
+    padding-right: 1000px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+.desctitulo {
+    margin-top: -20px;
+    /*margin-left: 80px;*/
+    font-size: 20px;
+    color: #fbe7ff;
+    font-family: 'Noto Sans Vai', sans-serif;
+}
