@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(236, 73, 73);
+    background-color: #48C9B0;
     font-family: 'Noto Sans Vai', sans-serif;
 }
 
 header {
-    background-color: rgb(236, 73, 73);
+    background-color: #16A085;
     margin: -8px;
 }
 
@@ -22,14 +22,109 @@ svg {
     font-size: 25px;
     margin-top: 30px;
     color: #fbe7ff;
-    padding-right: 1000px;
+    padding-right: 805px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+.orientado {
+    float: right;
+    margin-top: -80px;
+    padding-left: 900px;
+    position: absolute;
+}
+
+.irocho {
+    padding-top: 10px;
+}
+
+.titulo {
+    font-size: 25px;
+    margin-top: 30px;
+    color: #fbe7ff;
+    padding-right: 805px;
     font-family: 'Noto Serif Telugu', serif;
 }
 
 .desctitulo {
-    margin-top: -20px;
-    /*margin-left: 80px;*/
+    margin-right: 50px;
+}
+
+.Información {
+    margin-left: 10px;
+    margin-right: 500px;
+}
+
+/*.TextoInfo {
+    text-align: justify;
+    margin-top: 60px;
+    margin-right: 25px;
+    margin-left: 25px;
+    font-size: 16px;
+}*/
+
+/*img {
+    float: right;
+    margin-top: 6px;
+    margin-left: 25px;
+}*/
+
+table {
+    margin: auto;
+    margin-top: 60px;
+    width: 85%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+video {
+    float: initial;
+    margin-top: 10px;
+}
+
+td{
+    font-weight: bold;
+    padding: 8px;
+}
+
+/* Links */
+a:link {
+    color: #21618C
+}
+
+a:visited{
+    color: #2E4053;
+}
+/*---- */
+
+figure{
+    margin-top: -3px;
+}
+
+figcaption{
     font-size: 20px;
-    color: #fbe7ff;
-    font-family: 'Noto Sans Vai', sans-serif;
+    background-color: #1ABC9C;
+    color: #000000;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: normal;
+    text-align: left;
+}
+
+hr {
+    border: 1px solid rgb(237, 188, 255);
+    margin: 3px;
+    margin-top: 86px;
+}
+
+footer {
+    margin: auto;
+    margin-right: 7px;
+    text-align: right;
+}
+
+.hechapor {
+    font-size: 11px;
+    text-align: right;
 }

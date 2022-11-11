@@ -37,12 +37,11 @@ svg {
     padding-top: 10px;
 }
 
+
 .preguntita {
     margin-left: 42px;
 
 }
-
-/* Todo isto é só a barra morada de arriba, é igual en todas as páxinas */
 
 form {
     background-color: #16A085;
@@ -72,7 +71,7 @@ input {
     background-color: #DAF7A6;
 }
 
-.elboton {
+.boton {
     margin-left: 45px;
     width: 200px;
     text-align: center;
@@ -80,9 +79,9 @@ input {
     font-size: 16px;
     font-weight: bold;
     border-width: 4px;
-    border-color: #FF5733;
+    border-color: #2E4053;
 
-    background-color: #FFC300;
+    background-color: #21618C;
     background-repeat: no-repeat;
     cursor: pointer;
     overflow: hidden;
@@ -108,27 +107,12 @@ td{
     padding: 8px;
 }
 
-a:link {
-    color: rgb(111, 111, 255);
-}
-
-a:visited{
-    color: rgb(198, 52, 255);
-}
-
-a:hover {
-    color: rgb(0, 255, 85);
-    padding-bottom: 2px;
-    position: relative;
-    bottom: 2px;
-}
-
 figure{
 
     margin-top: -3px;
 }
 
-.fotitolink{
+.titulolink{
     text-decoration:none;
 }
 
@@ -144,11 +128,15 @@ figcaption{
     text-align: left;
 }
 
-.lapata{
+.buscador {
+    float: left;
+}
+
+.Ftexto{
     font-size: 13px;
 }
 
-/* Dende aquí ata o final solo é o pé de páxina */
+/* Pie de página */
 
 hr {
     border: 1px solid rgb(237, 188, 255);
