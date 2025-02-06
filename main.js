@@ -24,9 +24,9 @@ const messages = [
     "Para jugar habra que inciar el juego, por lo tanto que te parece si vamos empezando...",
     "¡HAZ CLICK PARA INCIAR EL JUEGO!",
     "Inciando juego...",
-    "Preparando ruta....",
-    "Configurarndo el nivel de amor.....",
-    "Estableciendo sentimientos por mi ChicoLindo❤️.....",
+    "Preparando ruta...",
+    "Configurando el nivel de amor...",
+    "Estableciendo sentimientos por mi ChicoLindo❤️...",
     "Sistema listo...",
     "¿Preparado para la primera pista? 💝"
 ];
