@@ -39,7 +39,7 @@ function init() {
     ctx.font = "30px Arial";
     ctx.fillStyle = "red";
     ctx.textAlign = "center";
-    ctx.fillText("El amor esta inicializado... pero para ajustar parametros deberas presentarte en la resi a la 13:00...", width / 2, height / 2.2 + 400);
+    ctx.fillText("Amor inicializado...para ajustar parametros deberas recogerme en mi morada cuanto antes...", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {
